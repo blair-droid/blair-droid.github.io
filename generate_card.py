@@ -246,7 +246,7 @@ HTML_CONTENT = r"""<!DOCTYPE html>
         font-size="62"
         font-weight="bold"
         class="writing-path">
-    Všechno nejlepší ke dni matek!
+    Všechno nejlepší ke Dni matek!
   </text>
 </svg>
 
